@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Adarsh123681/ReactWeatherApp/static/css/main.0f64d806.css",
+    "main.js": "/Adarsh123681/ReactWeatherApp/static/js/main.dbf1f9c9.js",
+    "static/js/787.1d5ca247.chunk.js": "/Adarsh123681/ReactWeatherApp/static/js/787.1d5ca247.chunk.js",
+    "static/media/weatherApp.png": "/Adarsh123681/ReactWeatherApp/static/media/weatherApp.8fdde7e693bff9f2c4e8.png",
+    "index.html": "/Adarsh123681/ReactWeatherApp/index.html",
+    "main.0f64d806.css.map": "/Adarsh123681/ReactWeatherApp/static/css/main.0f64d806.css.map",
+    "main.dbf1f9c9.js.map": "/Adarsh123681/ReactWeatherApp/static/js/main.dbf1f9c9.js.map",
+    "787.1d5ca247.chunk.js.map": "/Adarsh123681/ReactWeatherApp/static/js/787.1d5ca247.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f64d806.css",
+    "static/js/main.dbf1f9c9.js"
+  ]
+}

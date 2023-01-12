@@ -1,0 +1,42 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+input{
+  width: 25rem;
+  height: 10rem;
+}
+img {
+  animation-name: Adarsh;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-duration: 5s;
+}
+
+@keyframes Adarsh {
+  from {
+    transform: rotateY(0deg);
+  }
+
+  to {
+    transform: rotateY(360deg);
+  }
+}
+
+@media only screen and (max-width: 400px) {
+
+  .main {
+    width: 25rem;
+    height: 38rem;
+    left: 53%;
+  }
+
+  .dateTime {
+    font-size: 1rem;
+  }
+}
